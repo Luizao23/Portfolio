@@ -1,0 +1,1 @@
+Pasta para imagens do site. Substitua 'perfil.jpg', 'proj1.jpg', 'proj2.jpg', 'proj3.jpg' por fotos reais.
